@@ -2233,7 +2233,7 @@ let gameArray = [
             plural: 'die Trommeln',
             translation: 'drum',
             category: 'arts',
-            hint: 'Ringo Starr is known for this instrument.'
+            hint: 'This instrument is meant to be struck.'
         },
         {
             german: 'das Auge',
