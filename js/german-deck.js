@@ -15,7 +15,7 @@ let gameArray = [
             plural: 'die Jungen',
             translation: 'boy',
             category: 'people',
-            hint: (`If not <span class="ital">girl</span>, then ${underline}.`)
+            hint: (`"The Only Living ${underline} in New York."`)
         },
         {
             german: 'das Mädchen',
