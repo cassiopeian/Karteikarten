@@ -8,7 +8,7 @@ let gameArray = [
             plural: 'die Frauen',
             translation: 'woman',
             category: 'people',
-            hint: (`If not <span class="ital">man</span>, then ${underline}.`)
+            hint: (`"I'm Every ${underline}."`)
         },
         {
             german: 'der Junge',
