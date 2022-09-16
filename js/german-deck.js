@@ -29,7 +29,7 @@ let gameArray = [
             plural: 'die Männer',
             translation: 'man',
             category: 'people',
-            hint: (`If not <span class="ital">woman</span>, then ${underline}.`)
+            hint: (`Peter Parker is Spider-${underline}.`)
         },
         {
             german: 'die Person',
