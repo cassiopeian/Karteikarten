@@ -2166,6 +2166,12 @@ let gameArray = [
             hint: 'Half of one hundred.'
         },
         {
+            german: 'bequem',
+            translation: 'comfortable',
+            category: 'adjectives',
+            hint: `Walking is a pain, if your shoes aren't this.`
+        },
+        {
             german: 'die Batterie',
             plural: 'die Batterien',
             translation: 'battery',
