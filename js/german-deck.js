@@ -2172,6 +2172,12 @@ let gameArray = [
             hint: `Walking is a pain, if your shoes aren't this.`
         },
         {
+            german: 'hart',
+            translation: 'hard',
+            category: 'adjectives',
+            hint: 'The opposite of soft.'
+        },
+        {
             german: 'die Batterie',
             plural: 'die Batterien',
             translation: 'battery',
