@@ -2178,6 +2178,12 @@ let gameArray = [
             hint: 'The opposite of soft.'
         },
         {
+            german: 'leicht',
+            translation: 'light',
+            category: 'adjectives',
+            hint: 'The opposite of heavy.'
+        },
+        {
             german: 'die Batterie',
             plural: 'die Batterien',
             translation: 'battery',
