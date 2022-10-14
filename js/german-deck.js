@@ -2166,6 +2166,13 @@ let gameArray = [
             hint: 'Half of one hundred.'
         },
         {
+            german: 'die Badewanne',
+            plural: 'die Badewannen',
+            translation: ['bathtub', 'tub'],
+            category: 'home',
+            hint: 'Rub-a-dub-dub.'
+        },
+        {
             german: 'bequem',
             translation: 'comfortable',
             category: 'adjectives',
