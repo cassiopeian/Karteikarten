@@ -2194,6 +2194,13 @@ let gameArray = [
             hint: `Don't forget to flush.`
         },
         {
+            german: 'das Waschbecken',
+            plural: 'die Waschbecken',
+            translation: 'sink',
+            category: 'home',
+            hint: 'This has taps.'
+        },
+        {
             german: 'bequem',
             translation: 'comfortable',
             category: 'adjectives',
