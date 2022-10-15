@@ -2187,6 +2187,13 @@ let gameArray = [
             hint: `A loofah's best friend.`
         },
         {
+            german: 'die Toilette',
+            plural: 'die Toiletten',
+            translation: 'toilet',
+            category: 'home',
+            hint: `Don't forget to flush.`
+        },
+        {
             german: 'bequem',
             translation: 'comfortable',
             category: 'adjectives',
