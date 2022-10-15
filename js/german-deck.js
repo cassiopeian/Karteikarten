@@ -2180,6 +2180,13 @@ let gameArray = [
             hint: `Don't let Norman Bates find you here.`
         },
         {
+            german: 'die Seife',
+            plural: 'die Seifen',
+            translation: 'soap',
+            category: 'home',
+            hint: `A loofah's best friend.`
+        },
+        {
             german: 'bequem',
             translation: 'comfortable',
             category: 'adjectives',
