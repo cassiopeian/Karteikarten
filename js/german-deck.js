@@ -2173,6 +2173,13 @@ let gameArray = [
             hint: 'Rub-a-dub-dub.'
         },
         {
+            german: 'die Dusche',
+            plural: 'die Duschen',
+            translation: 'shower',
+            category: 'home',
+            hint: `Don't let Norman Bates find you here.`
+        },
+        {
             german: 'bequem',
             translation: 'comfortable',
             category: 'adjectives',
