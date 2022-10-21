@@ -2259,6 +2259,13 @@ let gameArray = [
             hint: ''
         },
         {
+            german: 'der Zeitplan',
+            plural: 'die Zeitpläne',
+            translation: 'schedule',
+            category: 'calendar',
+            hint: ''
+        },
+        {
             german: 'die Batterie',
             plural: 'die Batterien',
             translation: 'battery',
