@@ -2252,6 +2252,13 @@ let gameArray = [
             hint: ''
         },
         {
+            german: 'das Veranstaltung',
+            plural: 'die Veranstaltungen',
+            translation: 'event',
+            category: 'calendar',
+            hint: ''
+        },
+        {
             german: 'die Batterie',
             plural: 'die Batterien',
             translation: 'battery',
