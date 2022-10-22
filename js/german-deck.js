@@ -2235,7 +2235,7 @@ let gameArray = [
             plural: 'die Partys',
             translation: 'party',
             category: 'calendar',
-            hint: ''
+            hint: 'The Vengaboys like to do this.'
         },
         {
             german: 'die Sitzung',
