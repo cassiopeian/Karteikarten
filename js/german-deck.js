@@ -2263,7 +2263,7 @@ let gameArray = [
             plural: 'die Zeitpläne',
             translation: 'schedule',
             category: 'calendar',
-            hint: ''
+            hint: `Check the bus ${underline} for arrival times.`
         },
         {
             german: 'die Batterie',
