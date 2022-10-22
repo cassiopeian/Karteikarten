@@ -2242,7 +2242,7 @@ let gameArray = [
             plural: 'die Sitzungen',
             translation: 'session',
             category: 'calendar',
-            hint: ''
+            hint: `Court is in ${underline}.`
         },
         {
             german: 'der Termin',
