@@ -2256,7 +2256,7 @@ let gameArray = [
             plural: 'die Veranstaltungen',
             translation: 'event',
             category: 'calendar',
-            hint: ''
+            hint: 'A planned social occasion.'
         },
         {
             german: 'der Zeitplan',
