@@ -2249,7 +2249,7 @@ let gameArray = [
             plural: 'die Termine',
             translation: 'appointment',
             category: 'calendar',
-            hint: ''
+            hint: 'Something you begrudgingly make with your dentist.'
         },
         {
             german: 'das Veranstaltung',
