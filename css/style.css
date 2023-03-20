@@ -943,6 +943,7 @@ footer {
     text-transform: lowercase;
     padding-right: .4rem;
     margin: 0;
+    cursor: default;
 }
 .switch {
     position: relative;
