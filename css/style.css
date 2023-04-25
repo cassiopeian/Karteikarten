@@ -1,4 +1,19 @@
-/* GLOBAL */
+/* ----------------------------------
+STYLE SECTIONS
+1. GLOBAL
+2. ACCENT FONTS
+3. HEADER
+4. CATEGORIES
+5. MAIN
+6. INPUT AND QUIZ-BUTTON ANIMATIONS
+7. NEXT-LEVEL MODAL BOX
+8. ONION SKIN
+9. FOOTER
+10. DER DIE DAS QUIZ
+11. MEDIA QUERIES
+---------------------------------- */
+
+/* 1. GLOBAL */
 
 html {
     font-size: 16px;
@@ -29,7 +44,7 @@ button {
     cursor: pointer;
 }
 
-/* ACCENT FONTS */
+/* 2. ACCENT FONTS */
 
 .nav-links,
 #card-category,
@@ -48,7 +63,7 @@ button,
     font-style: normal;
 }
 
-/* HEADER */
+/* 3. HEADER */
 
 header {
     display: flex;
@@ -132,7 +147,7 @@ a:hover {
     box-shadow: 1px 3px 5px 1px #9E9E9E;
 }
 
-/* CATEGORIES  */
+/* 4. CATEGORIES  */
 
 #categories-wrapper {
     display: none;
@@ -368,7 +383,7 @@ button.lightning-round:hover {
     display: flex;
 }
 
-/* MAIN */
+/* 5. MAIN */
 
 #help-row {
     display: flex;
@@ -576,7 +591,7 @@ button.lightning-round:hover {
     box-shadow: 0 0 3px 1px rgb(97, 183, 223);
 }
 
-/* INPUT AND QUIZ-BUTTON ANIMATIONS */
+/* 6. INPUT AND QUIZ-BUTTON ANIMATIONS */
 
 /* activated with js, bzzt turns the input red */
 .add-bzzt {
@@ -618,7 +633,7 @@ button.lightning-round:hover {
     100% {background-color: rgb(41, 35, 70);}
 }
 
-/* NEXT-LEVEL MODAL BOX */
+/* 7. NEXT-LEVEL MODAL BOX */
 
 .modal {
     display: none;
@@ -775,7 +790,7 @@ h2 {
     background-color: rgb(128, 84, 181);
 }
 
-/* ONION SKIN */
+/* 8. ONION SKIN */
 
 #info-container {
     display: flex;
@@ -911,7 +926,7 @@ video {
     padding: 10px 10px;
 }
 
-/* FOOTER */
+/* 9. FOOTER */
 
 footer {
     display: flex;
@@ -997,7 +1012,7 @@ footer {
     border-radius: 50%;
 }
 
-/* DER DIE DAS QUIZ */
+/* 10. DER DIE DAS QUIZ */
 
 #blank-word-flex {
     display: flex;
@@ -1069,7 +1084,7 @@ footer {
     color: rgb(26, 18, 47);
 }
 
-/* MEDIA QUERIES */
+/* 11. MEDIA QUERIES */
 
 @media only screen and (max-width: 1044px) {
 
