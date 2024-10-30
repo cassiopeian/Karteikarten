@@ -897,3 +897,6 @@ $('#info-switch').on('click', function() {
 $('.review-preview-container').on('click', function() {
     $('.preview-box').toggle();
 });
+
+// set copyright year
+$('#copyright-year').html(new Date().getFullYear());
